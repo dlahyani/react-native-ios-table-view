@@ -1,0 +1,12 @@
+{
+  "name": "react-native-ios-table-view-examples",
+  "version": "1.0.0",
+  "description": "Examples for react-native-ios-table-view",
+  "author": "Lightricks LTD.",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^0.1.40",
+    "react-native": "^0.20.0",
+    "react-native-ios-table-view": "^1.0.0"
+  }
+}
