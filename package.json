@@ -2,7 +2,11 @@
   "name": "react-native-ios-table-view",
   "version": "1.0.0",
   "description": "iOS UITableView wrapper for React-Native",
-  "main": "index.js",
+  "main": "index.io.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlahyani/react-native-ios-table-view.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
