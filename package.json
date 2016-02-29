@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-table-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iOS UITableView wrapper for React-Native",
   "main": "src/index.js",
   "repository": {
