@@ -1,0 +1,15 @@
+{
+  "name": "react-native-ios-table-view",
+  "version": "1.0.0",
+  "description": "iOS UITableView wrapper for React-Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lightricks LTD.",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^0.1.40",
+    "react-native": "^0.20.0"
+  }
+}
